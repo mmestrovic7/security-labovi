@@ -1,0 +1,3 @@
+notion linkovi:
+*lab1->https://chambray-bat-422.notion.site/Lab-1-Man-in-the-middle-attack-ARP-spoofing-f4d16230c29241449feea8091433afa2
+*lab2->https://chambray-bat-422.notion.site/Lab-2-Python-crash-course-3fc45c36fac84d13815b6422fa5dd8ed
